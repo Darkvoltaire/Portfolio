@@ -3,7 +3,7 @@
 ### Education
 Chemical Engineering Bsc
 
-###Professional Certificates
+### Professional Certificates
 Google Data Analytics
 Google Advanced Data Analytics
 Forage PwC Switzerland Digital Accelerator
