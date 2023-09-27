@@ -4,8 +4,8 @@
 Chemical Engineering Bsc
 
 ### Professional Certificates
-Google Data Analytics
-Google Advanced Data Analytics
+Google Data Analytics;
+Google Advanced Data Analytics;
 Forage PwC Switzerland Digital Accelerator
 
 ### Work Experience
