@@ -16,9 +16,7 @@ Predicting Customer Buying Behaviour: Leveraging data science methodologies, I d
 
 ### Projects
 
-### British Airways Customer Review
-
--[British Airways Customer Review](https://github.com/Darkvoltaire/BRITISH-AIRWAYS-AIRLINE-REVIEW-ANALYSIS)
+### British Airways Customer Review [British Airways Customer Review](https://github.com/Darkvoltaire/BRITISH-AIRWAYS-AIRLINE-REVIEW-ANALYSIS)
 -Created a dataframe and scraped over 3000 British airway customer reviews from skytrax using python and Beautiful soup.
 -Performed sentiment analysis on the scrapped data.
 -Predicting customer buying behaviour.
